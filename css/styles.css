@@ -1,0 +1,48 @@
+.map {
+        height: 400px;
+        width: 100%;
+      }
+#coordenadas {     
+display: block;
+position: relative;
+margin: 0px auto;
+width: 40%;
+padding: 5px;
+border: none;
+border-radius: 7px;
+font-size: 15px;
+font-family: Montserrat;
+text-align: center;
+color: #000;
+background: #D6EAF8;
+}
+.contenidoPadre {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  margin: 20px;
+  box-sizing: border-box;
+}
+
+.img-fluid{
+    float: left;
+    text-align: center;
+	border: 1px solid black !important;
+}
+
+#banderas h6, #banderas h5{
+	background: #e1e1e1;
+}
+
+#banderas p, #banderas h5{
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+#banderas .contenido .card-content{
+	border: 1px solid black;
+}
+
+select.filter-holidays{
+	padding: 0 !important;
+}
