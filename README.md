@@ -11,6 +11,7 @@
 - WordPress
 - CSS
 - Bootstrap
+
 Para la carga de contenido, se utilizaron las siguientes APIs Externas:
 1) https://calendarific.com/api/v2/holidays Api de donde se obtiene la información de los días feriados según país y año.
 2) https://restcountries.eu Obtenemos información del País seleccionado en base al código de referencia del país
