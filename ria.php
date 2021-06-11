@@ -1,17 +1,14 @@
 <?php
 /**
  * Plugin Name:       Ria
- * Plugin URI:        https://example.com/plugins/the-basics/
- * Description:       Handle the basics with this plugin.
+ * Plugin URI:        https://github.com/marcelCarpinter/RIA
+ * Description:       Add a shortcode to use: [ria-map] 
  * Version:           1.10.3
  * Requires at least: 5.2
  * Requires PHP:      7.2
- * Author:            John Smith
- * Author URI:        https://author.example.com/
+ * Author:            Marcel Carpinter, Romina Vera, Gastón Pacella
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       my-basics-plugin
- * Domain Path:       /languages
  */
 
 register_activation_hook( __FILE__, 'ria_myplugin_activate' );
