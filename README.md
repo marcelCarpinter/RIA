@@ -27,11 +27,3 @@ Se debe descargar el código fuente del plugin en un zip, y subirlo a tu instala
 
 Para poder configurar la vista en una página/post de WordPress, se agrega el shortcode [ria-map] donde desee mostrarse la aplicación.
 Luego para visualizar la página se accede desde el enlace que Wordpress te muestra como información de la página/post.
-
-## Alojamiento de la Demo: Servidor de Amazon
-
-En el siguiente link se tiene una demo: http://ec2-13-58-63-70.us-east-2.compute.amazonaws.com/ria/
-
-Credenciales del Sitio:
-- Usuario: admin
-- P: riaAdmin!1234
